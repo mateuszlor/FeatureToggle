@@ -1,0 +1,6 @@
+C:\Users\zew_2_24421\source\repos\FeatureToggle\FeatureToggle.Storage.SqlServer\bin\Debug\netstandard2.0\FeatureToggle.Storage.SqlServer.deps.json
+C:\Users\zew_2_24421\source\repos\FeatureToggle\FeatureToggle.Storage.SqlServer\bin\Debug\netstandard2.0\FeatureToggle.Storage.SqlServer.dll
+C:\Users\zew_2_24421\source\repos\FeatureToggle\FeatureToggle.Storage.SqlServer\obj\Debug\netstandard2.0\FeatureToggle.Storage.SqlServer.csprojAssemblyReference.cache
+C:\Users\zew_2_24421\source\repos\FeatureToggle\FeatureToggle.Storage.SqlServer\obj\Debug\netstandard2.0\FeatureToggle.Storage.SqlServer.AssemblyInfoInputs.cache
+C:\Users\zew_2_24421\source\repos\FeatureToggle\FeatureToggle.Storage.SqlServer\obj\Debug\netstandard2.0\FeatureToggle.Storage.SqlServer.AssemblyInfo.cs
+C:\Users\zew_2_24421\source\repos\FeatureToggle\FeatureToggle.Storage.SqlServer\bin\Debug\netstandard2.0\FeatureToggle.Infrastructure.dll
